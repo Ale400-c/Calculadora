@@ -1,2 +1,6 @@
 # Calculadora
-Pre
+calculadora/
+│
+├── calculadora.py
+├── README.md
+└── .gitignore
