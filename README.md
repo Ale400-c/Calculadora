@@ -1,6 +1,4 @@
-#calculadora/
-
-//calculadora
+#calculadora
 
     calculadora.py
     README.md
@@ -50,10 +48,3 @@ Proyecto simple de una calculadora que permite:
 ## Cómo ejecutar
 ```bash
 python calculadora.py
-## Ideas para mejorar 🚀
-- Agregar interfaz gráfica con `tkinter`.
-- Guardar el historial de operaciones.
-- Añadir más funciones: potencia, raíz cuadrada y porcentaje.
-- Crear una versión web con HTML, CSS y JavaScript.
-
-Este proyecto es perfecto para empezar a construir tu portafolio en [GitHub](https://github.com?utm_source=chatgpt.com).
