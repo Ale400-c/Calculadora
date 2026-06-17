@@ -1,5 +1,4 @@
-# Calculadora
-calculadora/
+# Calculadora/
 │
 ├── calculadora.py
 ├── README.md
@@ -38,8 +37,7 @@ elif opcion == "3":
 elif opcion == "4":
     print("Resultado:", dividir(a, b))
 else:
-print("Opción no válida")
-
+    print("Opción no válida")
 # Calculadora en Python
 
 Proyecto simple de una calculadora que permite:
@@ -57,9 +55,4 @@ python calculadora.py
 - Guardar el historial de operaciones.
 - Añadir más funciones: potencia, raíz cuadrada y porcentaje.
 - Crear una versión web con HTML, CSS y JavaScript.
-
 Este proyecto es perfecto para empezar a construir tu portafolio en [GitHub](https://github.com?utm_source=chatgpt.com).
-
-
-
-
