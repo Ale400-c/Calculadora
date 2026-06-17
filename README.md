@@ -1,8 +1,9 @@
 #calculadora/
-│
-├── calculadora.py
-├── README.md
-└── .gitignore
+
+//calculadora
+
+    calculadora.py
+    README.md
 def sumar(a, b):
     return a + b
 
