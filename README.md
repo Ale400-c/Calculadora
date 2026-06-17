@@ -38,7 +38,8 @@ elif opcion == "3":
 elif opcion == "4":
     print("Resultado:", dividir(a, b))
 else:
-}
+print("Opción no válida")
+
 # Calculadora en Python
 
 Proyecto simple de una calculadora que permite:
