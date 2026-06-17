@@ -1,9 +1,8 @@
-#calculadora/
+calculadora/
 │
 ├── calculadora.py
 ├── README.md
 └── .gitignore
-
 def sumar(a, b):
     return a + b
 
@@ -39,19 +38,3 @@ elif opcion == "4":
     print("Resultado:", dividir(a, b))
 else:
     print("Opción no válida")
-# Calculadora en Python
-
-Proyecto simple de una calculadora que permite:
-- Sumar
-- Restar
-- Multiplicar
-- Dividir
-
-## Cómo ejecutar
-```bash
-python calculadora.py
-## Ideas para mejorar 🚀
-- Agregar interfaz gráfica con `tkinter`.
-- Guardar el historial de operaciones.
-- Añadir más funciones: potencia, raíz cuadrada y porcentaje.
-- Crear una versión web con HTML, CSS y JavaScript.
